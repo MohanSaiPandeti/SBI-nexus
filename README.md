@@ -63,7 +63,7 @@ The complete presentation submitted for the **SBI Hackathon @ Global Fintech Fes
 
  **Presentation (PDF)**
 
- **[View SBI NEXUS Presentation](docs/SBI%20NEXUS%20Presentation.pdf)**
+  **[View SBI NEXUS Presentation](SBI%20NEXUS%20Presentation.pdf)**
 
 > This presentation provides an overview of the problem statement, proposed solution, system architecture, AI workflow, technology stack, implementation roadmap, and business impact of SBI NEXUS.
 
