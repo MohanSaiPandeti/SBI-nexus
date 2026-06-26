@@ -23,17 +23,19 @@
 
 ---
 
-[Features](#-features) •
-[Architecture](#-system-architecture) •
-[Tech Stack](#-technology-stack) •
-[Roadmap](#-project-roadmap) •
-[Developer](#-developer)
+[Overview](#overview) •
+[Presentation](#presentation-deck) •
+[Features](#features) •
+[Architecture](#system-architecture) •
+[Tech Stack](#technology-stack) •
+[Roadmap](#project-roadmap) •
+[Developer](#developer)
 
 </div>
 
 ---
 
-#  Overview
+##  Overview
 
 Traditional banking systems are largely **reactive**, requiring customers to initiate interactions, search for services, monitor spending, and manage finances independently.
 
@@ -49,27 +51,30 @@ This often results in:
 
 Instead of waiting for customers to ask,
 
-**SBI NEXUS proactively understands customer behavior and delivers personalized financial assistance before customers even realize they need it.**
+**SBI Nexus proactively understands customer behavior and delivers personalized financial assistance before customers even realize they need it.**
 
 Think of it as an **AI Relationship Manager** that continuously analyzes spending habits, predicts financial needs, recommends relevant SBI products, and assists customers through multilingual conversational AI.
 
 ---
 
+
+##  Presentation Deck
+
+<p align="center">
+  <img src="docs/SBI_Nexus_Image01.png" width="900" alt="SBI Nexus Presentation Cover">
+</p>
+
+<p align="center">
+  <a href="docs/SBI_NEXUS_Presentation.pdf">
+    <strong> View Full Presentation (PDF)</strong>
+  </a>
+</p>
+
+> Complete solution overview, architecture, implementation roadmap, and business impact.
+
 ---
-
-#  Presentation Deck
-
-The complete presentation submitted for the **SBI Hackathon @ Global Fintech Fest 2026** is available below.
-
- **Presentation (PDF)**
-
-  **[View SBI NEXUS Presentation](SBI%20NEXUS%20Presentation.pdf)**
-
-> This presentation provides an overview of the problem statement, proposed solution, system architecture, AI workflow, technology stack, implementation roadmap, and business impact of SBI NEXUS.
-
 ---
-
-#  Problem Statement
+##  Problem Statement
 
 Banks today struggle with:
 
@@ -84,7 +89,7 @@ Current banking applications focus primarily on transactions rather than long-te
 
 ---
 
-#  Proposed Solution
+##  Proposed Solution
 
 SBI NEXUS is an **AI-Powered Proactive Banking Relationship Platform** designed to enhance customer engagement through intelligent financial assistance.
 
@@ -102,7 +107,7 @@ to generate **real-time personalized financial recommendations**.
 
 ---
 
-#  Features
+##  Features
 
 ##  Smart Spending Analytics
 
@@ -194,7 +199,7 @@ Provides a real-time financial wellness score based on
 
 ---
 
-#  System Architecture
+##  System Architecture
 
 ```
                     React Frontend
@@ -219,7 +224,7 @@ Provides a real-time financial wellness score based on
 
 ---
 
-#  Technology Stack
+##  Technology Stack
 
 ## Frontend
 
@@ -282,7 +287,7 @@ Future:
 
 ---
 
-#  Repository Structure
+##  Repository Structure
 
 ```
 sbi-nexus/
@@ -301,7 +306,7 @@ sbi-nexus/
 
 ---
 
-#  User Journey
+##  User Journey
 
 1. Customer logs into SBI.
 2. AI analyzes recent transactions.
@@ -313,7 +318,7 @@ sbi-nexus/
 
 ---
 
-#  Project Roadmap
+##  Project Roadmap
 
 ## Phase 1
 
@@ -355,9 +360,9 @@ sbi-nexus/
 
 ---
 
-#  Commercial Potential
+##  Commercial Potential
 
-SBI NEXUS operates as an **Enterprise AI Engagement Layer** integrated directly into SBI's existing banking ecosystem.
+SBI Nexus operates as an **Enterprise AI Engagement Layer** integrated directly into SBI's existing banking ecosystem.
 
 Business Benefits:
 
@@ -370,7 +375,7 @@ Business Benefits:
 
 ---
 
-#  Security
+##  Security
 
 Security is a core design principle.
 
@@ -389,7 +394,7 @@ Planned security features include:
 
 
 
-#  Future Scope
+##  Future Scope
 
 - AI Autonomous Financial Planning
 - Portfolio Optimization
@@ -403,7 +408,7 @@ Planned security features include:
 
 ---
 
-#  Developer
+##  Developer
 
 ## Mohan Sai Pandeti
 
@@ -422,7 +427,7 @@ https://www.linkedin.com/in/mohansaipandeti/
 
 ---
 
-#  Contributions
+##  Contributions
 
 This project is currently being developed as part of the **SBI Hackathon @ GFF 2026**.
 
@@ -430,7 +435,7 @@ Suggestions, feedback, and discussions are welcome.
 
 ---
 
-#  License
+##  License
 
 This project is licensed under the MIT License.
 
