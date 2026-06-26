@@ -15,7 +15,7 @@
 
 ---
 
-** SBI Hackathon @ Global Fintech Fest 2026**
+**SBI Hackathon @ Global Fintech Fest 2026**
 
 **Theme:** Agentic AI & Emerging Technologies
 
