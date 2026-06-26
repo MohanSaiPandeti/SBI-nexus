@@ -112,7 +112,7 @@ with proactive reminders.
 
 ---
 
-## 🎯 Personalized Banking Products
+##  Personalized Banking Products
 
 AI recommends
 
@@ -205,7 +205,7 @@ Provides a real-time financial wellness score based on
 
 ---
 
-# ⚙ Technology Stack
+#  Technology Stack
 
 ## Frontend
 
@@ -287,7 +287,7 @@ sbi-nexus/
 
 ---
 
-# 🔄 User Journey
+#  User Journey
 
 1. Customer logs into SBI.
 2. AI analyzes recent transactions.
@@ -299,7 +299,7 @@ sbi-nexus/
 
 ---
 
-# 🚀 Project Roadmap
+#  Project Roadmap
 
 ## Phase 1
 
@@ -341,7 +341,7 @@ sbi-nexus/
 
 ---
 
-# 📈 Commercial Potential
+#  Commercial Potential
 
 SBI NEXUS operates as an **Enterprise AI Engagement Layer** integrated directly into SBI's existing banking ecosystem.
 
@@ -356,7 +356,7 @@ Business Benefits:
 
 ---
 
-# 🔒 Security
+#  Security
 
 Security is a core design principle.
 
@@ -373,7 +373,7 @@ Planned security features include:
 
 ---
 
-# 📌 Future Scope
+#  Future Scope
 
 - AI Autonomous Financial Planning
 - Portfolio Optimization
@@ -387,7 +387,7 @@ Planned security features include:
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 ## Mohan Sai Pandeti
 
