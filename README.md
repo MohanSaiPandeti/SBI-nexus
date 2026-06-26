@@ -55,6 +55,20 @@ Think of it as an **AI Relationship Manager** that continuously analyzes spendin
 
 ---
 
+---
+
+#  Presentation Deck
+
+The complete presentation submitted for the **SBI Hackathon @ Global Fintech Fest 2026** is available below.
+
+ **Presentation (PDF)**
+
+ **[View SBI NEXUS Presentation](docs/SBI%20NEXUS%20Presentation.pdf)**
+
+> This presentation provides an overview of the problem statement, proposed solution, system architecture, AI workflow, technology stack, implementation roadmap, and business impact of SBI NEXUS.
+
+---
+
 #  Problem Statement
 
 Banks today struggle with:
@@ -372,6 +386,8 @@ Planned security features include:
 - Input Validation
 
 ---
+
+
 
 #  Future Scope
 
