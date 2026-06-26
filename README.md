@@ -102,7 +102,7 @@ to generate **real-time personalized financial recommendations**.
 
 ---
 
-# ✨ Features
+#  Features
 
 ##  Smart Spending Analytics
 
@@ -282,7 +282,7 @@ Future:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```
 sbi-nexus/
