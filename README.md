@@ -393,21 +393,20 @@ Planned security features include:
 
 **B.Tech Computer Science & Engineering (Data Science)**
 
-Mohan Babu University
 
-Individual Participant — SBI Hackathon @ GFF 2026
+Individual Participant - SBI Hackathon @ GFF 2026
 
-📧 Email
+ Email
 
 pandetimohansai@gmail.com
 
-💼 LinkedIn
+ LinkedIn
 
 https://www.linkedin.com/in/mohansaipandeti/
 
 ---
 
-# 🤝 Contributions
+#  Contributions
 
 This project is currently being developed as part of the **SBI Hackathon @ GFF 2026**.
 
@@ -415,7 +414,7 @@ Suggestions, feedback, and discussions are welcome.
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the MIT License.
 
@@ -423,7 +422,7 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-## ⭐ If you like this project, consider giving it a star.
+##  If you like this project, consider giving it a star.
 
 **Built with ❤️ using Spring Boot, React, PostgreSQL & Gemini AI**
 
