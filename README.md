@@ -47,7 +47,7 @@ This often results in:
 - Low customer engagement
 - Generic product recommendations
 
-## SBI NEXUS changes this paradigm.
+## SBI Nexus changes this paradigm.
 
 Instead of waiting for customers to ask,
 
@@ -71,8 +71,6 @@ Think of it as an **AI Relationship Manager** that continuously analyzes spendin
 </p>
 
 > Complete solution overview, architecture, implementation roadmap, and business impact.
-
----
 ---
 ##  Problem Statement
 
