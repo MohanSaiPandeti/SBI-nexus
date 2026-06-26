@@ -427,7 +427,7 @@ https://www.linkedin.com/in/mohansaipandeti/
 
 ##  Contributions
 
-This project is currently being developed as part of the **SBI Hackathon @ GFF 2026**.
+This project is currently being developed as part of the **SBI Hackathon @ Global Fintech Fest 2026**.
 
 Suggestions, feedback, and discussions are welcome.
 
