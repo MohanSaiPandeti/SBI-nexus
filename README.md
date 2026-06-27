@@ -89,11 +89,11 @@ Current banking applications focus primarily on transactions rather than long-te
 
 ##  Proposed Solution
 
-SBI NEXUS is an **AI-Powered Proactive Banking Relationship Platform** designed to enhance customer engagement through intelligent financial assistance.
+SBI Nexus is an **AI-Powered Proactive Banking Relationship Platform** designed to enhance customer engagement through intelligent financial assistance.
 
 Rather than functioning as another chatbot,
 
-SBI NEXUS continuously analyzes:
+SBI Nexus continuously analyzes:
 
 - Spending patterns
 - Financial goals
